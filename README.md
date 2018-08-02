@@ -2,7 +2,7 @@
 
 [![macOS Build Status](https://circleci.com/gh/atom/atom/tree/master.svg?style=shield)](https://circleci.com/gh/atom/atom) [![Linux Build Status](https://travis-ci.org/atom/atom.svg?branch=master)](https://travis-ci.org/atom/atom) [![Windows Build Status](https://ci.appveyor.com/api/projects/status/1tkktwh654w07eim?svg=true)](https://ci.appveyor.com/project/Atom/atom)
 [![Dependency Status](https://david-dm.org/atom/atom.svg)](https://david-dm.org/atom/atom)
-[![Join the Atom Community on Slack](https://atom-slack.herokuapp.com/badge.svg)](https://atom-slack.herokuapp.com) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/atom--atom.svg)](https://www.staging.guardrails.io)
+[![Join the Atom Community on Slack](https://atom-slack.herokuapp.com/badge.svg)](https://atom-slack.herokuapp.com) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/atom--atom.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/atom--atom.svg)](https://www.guardrails.io)
 
 Atom is a hackable text editor for the 21st century, built on [Electron](https://github.com/atom/electron), and based on everything we love about our favorite editors. We designed it to be deeply customizable, but still approachable using the default configuration.
 
